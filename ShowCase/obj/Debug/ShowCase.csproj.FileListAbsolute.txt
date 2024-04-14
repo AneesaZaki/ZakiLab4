@@ -1,0 +1,10 @@
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\obj\Debug\ShowCase.csproj.AssemblyReference.cache
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\obj\Debug\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\bin\Debug\ShowCase.exe.config
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\bin\Debug\ShowCase.exe
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\bin\Debug\ShowCase.pdb
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\bin\Debug\StringLibrary.dll
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\bin\Debug\StringLibrary.pdb
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\obj\Debug\ShowCase.csproj.CopyComplete
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\obj\Debug\ShowCase.exe
+C:\Users\marya\source\repos\ClassLibraryProjects1\ShowCase\obj\Debug\ShowCase.pdb
